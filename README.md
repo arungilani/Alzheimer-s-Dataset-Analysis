@@ -12,6 +12,6 @@ The dataset was downloaded from this github- https://github.com/deepak525/Dement
 
 -14 subjects were grouped as 'Nondemented' at the time of their initial visit and were subsequently characterized as 'Demented' at a later visit. These fall under the 'Converted' category.
 
-The dataset consists of the following categories: education, socioeconomic status, mini mental state examination, clinical dimentia rating, estimated total intracranial volume, normalize whole brain volume, and atlas scaling factor.
+-The dataset consists of the following categories: education, socioeconomic status, mini mental state examination, clinical dimentia rating, estimated total intracranial volume, normalize whole brain volume, and atlas scaling factor.
 
-All of these categories were used in the ipynb to help predict whether a patient could be seen having Alzheimer's or not, depending on the status of these categories.
+-All of these categories were used in the ipynb to help predict whether a patient could be seen having Alzheimer's or not, depending on the status of these categories.
